@@ -72,4 +72,10 @@ public class Esame {
         return this.insegnamento + " | " + this.crediti + " | " 
              + this.voto + " | " + this.lode;
     }
+
+    public String prova(){
+        return "prova git";
+    }
+
+
 }
